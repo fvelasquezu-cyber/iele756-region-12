@@ -1,0 +1,5 @@
+codigo_comuna,nombre_comuna,eno_total,eno_chilean,eno_foreign,eno_desconocido,eno_top3_diseases,eno_rate_per_10k
+13105,El Bosque,1212,634,111,467,"VIH, Parotiditis, Coqueluche",78.06411305126339
+13116,Lo Espejo,678,366,72,240,"VIH, Parotiditis, Coqueluche",77.66767856120052
+13202,Pirque,136,76,8,52,"VIH, Parotiditis, Chagas",46.799724707501724
+13603,Isla de Maipo,115,67,11,37,"VIH, Parotiditis, Sifilis",29.28145847125325
